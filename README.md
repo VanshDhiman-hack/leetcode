@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VanshDhiman-hack/leetcode/tree/master/0001-two-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/VanshDhiman-hack/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VanshDhiman-hack/leetcode/tree/master/0001-two-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/VanshDhiman-hack/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -24,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/VanshDhiman-hack/leetcode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
