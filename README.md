@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VanshDhiman-hack/leetcode/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/VanshDhiman-hack/leetcode/tree/master/0139-word-break) |
 | [1191-k-concatenation-maximum-sum](https://github.com/VanshDhiman-hack/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/VanshDhiman-hack/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VanshDhiman-hack/leetcode/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/VanshDhiman-hack/leetcode/tree/master/0139-word-break) |
 | [1331-rank-transform-of-an-array](https://github.com/VanshDhiman-hack/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/VanshDhiman-hack/leetcode/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/VanshDhiman-hack/leetcode/tree/master/0139-word-break) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -40,5 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/VanshDhiman-hack/leetcode/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/VanshDhiman-hack/leetcode/tree/master/0139-word-break) |
 | [1191-k-concatenation-maximum-sum](https://github.com/VanshDhiman-hack/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/VanshDhiman-hack/leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/VanshDhiman-hack/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
