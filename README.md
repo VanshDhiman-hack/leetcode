@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VanshDhiman-hack/leetcode/tree/master/0001-two-sum) |
+| [1191-k-concatenation-maximum-sum](https://github.com/VanshDhiman-hack/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/VanshDhiman-hack/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/VanshDhiman-hack/leetcode/tree/master/1291-sequential-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1191-k-concatenation-maximum-sum](https://github.com/VanshDhiman-hack/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 <!---LeetCode Topics End-->
