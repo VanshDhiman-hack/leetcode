@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/VanshDhiman-hack/leetcode/tree/master/0292-nim-game) |
 | [1492-the-kth-factor-of-n](https://github.com/VanshDhiman-hack/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VanshDhiman-hack/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3115-maximum-prime-difference](https://github.com/VanshDhiman-hack/leetcode/tree/master/3115-maximum-prime-difference) |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/VanshDhiman-hack/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VanshDhiman-hack/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3115-maximum-prime-difference](https://github.com/VanshDhiman-hack/leetcode/tree/master/3115-maximum-prime-difference) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/VanshDhiman-hack/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/VanshDhiman-hack/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
