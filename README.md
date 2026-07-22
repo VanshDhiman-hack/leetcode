@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/VanshDhiman-hack/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VanshDhiman-hack/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3115-maximum-prime-difference](https://github.com/VanshDhiman-hack/leetcode/tree/master/3115-maximum-prime-difference) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshDhiman-hack/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/VanshDhiman-hack/leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/VanshDhiman-hack/leetcode/tree/master/0139-word-break) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VanshDhiman-hack/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/VanshDhiman-hack/leetcode/tree/master/1260-shift-2d-grid) |
+## Binary Search
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
