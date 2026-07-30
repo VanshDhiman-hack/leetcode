@@ -155,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshDhiman-hack/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/VanshDhiman-hack/leetcode/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
