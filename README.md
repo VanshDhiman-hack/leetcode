@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VanshDhiman-hack/leetcode/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/VanshDhiman-hack/leetcode/tree/master/0139-word-break) |
+| [0486-predict-the-winner](https://github.com/VanshDhiman-hack/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VanshDhiman-hack/leetcode/tree/master/0877-stone-game) |
 | [1191-k-concatenation-maximum-sum](https://github.com/VanshDhiman-hack/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1260-shift-2d-grid](https://github.com/VanshDhiman-hack/leetcode/tree/master/1260-shift-2d-grid) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/VanshDhiman-hack/leetcode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/VanshDhiman-hack/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VanshDhiman-hack/leetcode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/VanshDhiman-hack/leetcode/tree/master/0913-cat-and-mouse) |
 | [1492-the-kth-factor-of-n](https://github.com/VanshDhiman-hack/leetcode/tree/master/1492-the-kth-factor-of-n) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/VanshDhiman-hack/leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/VanshDhiman-hack/leetcode/tree/master/0139-word-break) |
+| [0486-predict-the-winner](https://github.com/VanshDhiman-hack/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VanshDhiman-hack/leetcode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/VanshDhiman-hack/leetcode/tree/master/0913-cat-and-mouse) |
 | [1191-k-concatenation-maximum-sum](https://github.com/VanshDhiman-hack/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/VanshDhiman-hack/leetcode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/VanshDhiman-hack/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VanshDhiman-hack/leetcode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/VanshDhiman-hack/leetcode/tree/master/0913-cat-and-mouse) |
 ## Graph Theory
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/VanshDhiman-hack/leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1280-students-and-examinations](https://github.com/VanshDhiman-hack/leetcode/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/VanshDhiman-hack/leetcode/tree/master/1341-movie-rating) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/VanshDhiman-hack/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
