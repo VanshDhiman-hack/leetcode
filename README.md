@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshDhiman-hack/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3115-maximum-prime-difference](https://github.com/VanshDhiman-hack/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VanshDhiman-hack/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VanshDhiman-hack/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/VanshDhiman-hack/leetcode/tree/master/0139-word-break) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshDhiman-hack/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VanshDhiman-hack/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VanshDhiman-hack/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/VanshDhiman-hack/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VanshDhiman-hack/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3115-maximum-prime-difference](https://github.com/VanshDhiman-hack/leetcode/tree/master/3115-maximum-prime-difference) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshDhiman-hack/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshDhiman-hack/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Database
 |  |
 | ------- |
@@ -201,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/VanshDhiman-hack/leetcode/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
