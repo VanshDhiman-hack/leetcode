@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VanshDhiman-hack/leetcode/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/VanshDhiman-hack/leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1510-stone-game-iv](https://github.com/VanshDhiman-hack/leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VanshDhiman-hack/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshDhiman-hack/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3115-maximum-prime-difference](https://github.com/VanshDhiman-hack/leetcode/tree/master/3115-maximum-prime-difference) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/VanshDhiman-hack/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1406-stone-game-iii](https://github.com/VanshDhiman-hack/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/VanshDhiman-hack/leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VanshDhiman-hack/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/VanshDhiman-hack/leetcode/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VanshDhiman-hack/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/VanshDhiman-hack/leetcode/tree/master/1510-stone-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
@@ -203,11 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VanshDhiman-hack/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/VanshDhiman-hack/leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VanshDhiman-hack/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/VanshDhiman-hack/leetcode/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VanshDhiman-hack/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/VanshDhiman-hack/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/VanshDhiman-hack/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
